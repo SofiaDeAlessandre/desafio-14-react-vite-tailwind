@@ -1,8 +1,12 @@
-# React + Vite
+### Nombre y apellido: Sofía De Alessandre
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Link GitHub repositorio: https://github.com/SofiaDeAlessandre/desafio-14-react-vite-tailwind.git
 
-Currently, two official plugins are available:
+### Link Netlify: https://react-tailwind-desafio-14.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Descripción: el desafío 14 propone 4 enunciados realizados con REACT-VITE y estilados con Tailwind. El primero es mostrar una "Tarjeta de Usuario", el segundo es un botón que cambia al hacer "Like" y "Unlike", el tercero es una tarjeta de Producto que muestra u oculta la descripción del mismo y el cuarto es un botón de incrementar que se deshabilita al llegar a 20. 
+
+![](/public/img-readme/img-readme-1.png)
+![](/public/img-readme/img-readme-2.png)
+![](/public/img-readme/img-readme-3.png)
+
