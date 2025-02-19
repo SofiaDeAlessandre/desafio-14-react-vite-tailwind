@@ -11,7 +11,7 @@ const Product = ({ productName, productDescription }) => {
   return (
     <>
       <div className="flex justify-center items-center rounded-2xl flex-col border border-gray-800 m-auto p-10 mt-10 w-96">
-        <h1>{productName}</h1>
+        <h1 className="text-2xl">{productName}</h1>
         
         { isHide ? (<h2>{productDescription}</h2>) : (<p>Se ocultó la descripción</p>)
 
